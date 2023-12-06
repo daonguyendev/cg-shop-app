@@ -6,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Team members:
 ### 1. Dao Nguyen
 ### 2. Dat Truong
+### 3. Duc Hoang
 
 In the project directory, you can run:
 
