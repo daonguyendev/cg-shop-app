@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## CG Shop App
+## Team members:
+### 1. Dao Nguyen
+
+In the project directory, you can run:
+
 ## Available Scripts
 
 In the project directory, you can run:
