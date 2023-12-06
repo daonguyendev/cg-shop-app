@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## CG Shop App
 ## Team members:
-### 1. Nguyen Dao
-### 2. Tan Dat
-### 3. Hoang Duc
+### 1. Dao Nguyen
+### 2. Dat Truong
+### 3. Duc Hoang
 
 In the project directory, you can run:
 
